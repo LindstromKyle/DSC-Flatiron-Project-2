@@ -103,7 +103,7 @@ A major improvement!
 ​​![](./images//media/image12.png)
 > *Figure 8*
 
-**Testing on Unseen Data**
+## **Testing on Unseen Data**
 
 Finally, we want to test our model's predictive power against data that
 it has not been exposed to before. *Figure 9* shows our model's
