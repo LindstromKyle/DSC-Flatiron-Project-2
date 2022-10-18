@@ -8,7 +8,7 @@ Predicting sale price using regression algorithms
 
 Our client, a real estate investor, would like to know which properties
 in the greater Seattle area are undervalued. We used property sale data
-from King County (2014 - 2105) to create a regression model capable of
+from King County (2014 - 2015) to create a regression model capable of
 predicting sale price from a number of home features.
 
 ## **Exploratory Data Analysis**
