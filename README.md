@@ -120,6 +120,9 @@ addressed in future iterations.
 We were able to improve from a baseline single linear regression model
 MDAPE of \~28% to a final model MDAPE of \~12%. This final model was a
 polynomial regression of degree 4, with engineered features, and
-log-scaling of both predictor and target variables. All of the code to
-generate the figures above can be found in this repository, under
-'Final_Notebook.ipynb'.
+log-scaling of both predictor and target variables. 
+
+[Full Jupyter Notebook](https://github.com/LindstromKyle/DSC-Flatiron-Project-2/blob/main/Final_Notebook.ipynb)  
+
+[Non Technical Presentation](https://github.com/LindstromKyle/DSC-Flatiron-Project-2/blob/main/Project_2_Presentation.pdf)  
+
